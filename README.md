@@ -1,3 +1,15 @@
+OBJETIVOS ESPECIFICOS
+- Explicar los principios de un campo magnético
+- Explicar los principios del electromagnetismo
+- Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+- Explicar la histéresis magnética
+- Analizar el principio de inducción electromagnética
+- Analizar tres métodos de resolver ecuaciones simultáneas
+- Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
+- Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
+- Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+
+- CAPITULO 9
 2. Evalúe cada determinante:
 - ![image](https://user-images.githubusercontent.com/105893980/178125720-71b8e069-c854-4124-8330-e7924f168f1a.png)
 4. Evalúe cada uno de los determinantes:
