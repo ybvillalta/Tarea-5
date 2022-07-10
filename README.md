@@ -1,4 +1,7 @@
-OBJETIVOS ESPECIFICOS
+1. OBJETIVO GENERAL
+En el siguiente document se aplicaran métodos basados en la ley de Ohm y las leyes de Kirchhoff, son particularmente útiles en el análisis de circuitos de
+múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito.
+1.1 OBJETIVOS ESPECIFICOS
 - Explicar los principios de un campo magnético
 - Explicar los principios del electromagnetismo
 - Describir el principio de operación de varios tipos de dispositivos electromagnéticos
@@ -8,7 +11,10 @@ OBJETIVOS ESPECIFICOS
 - Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
 - Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
 - Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
-
+2. MARCO TEORICO (RESUMEN)
+- ![image](https://user-images.githubusercontent.com/105893980/178126384-41a4c6a1-38ed-491a-955a-b23e5dfa03f1.png)
+- ![image](https://user-images.githubusercontent.com/105893980/178126424-b2b8ffbb-6b8d-4bf3-93a3-56d9b003f411.png)
+3. RESOLUCION DE EJERCICIOS PROPUESTOS
 - CAPITULO 9
 2. Evalúe cada determinante:
 - ![image](https://user-images.githubusercontent.com/105893980/178125720-71b8e069-c854-4124-8330-e7924f168f1a.png)
