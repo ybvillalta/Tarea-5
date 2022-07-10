@@ -1,7 +1,7 @@
 1. OBJETIVO GENERAL
 En el siguiente document se aplicaran métodos basados en la ley de Ohm y las leyes de Kirchhoff, son particularmente útiles en el análisis de circuitos de
 múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito.
-1.1 OBJETIVOS ESPECIFICOS
+- OBJETIVOS ESPECIFICOS
 - Explicar los principios de un campo magnético
 - Explicar los principios del electromagnetismo
 - Describir el principio de operación de varios tipos de dispositivos electromagnéticos
@@ -83,17 +83,13 @@ múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el 
 - ![image](https://user-images.githubusercontent.com/105893980/178125979-4d28eb21-a1b0-4cb3-933d-dda9e57f1ff2.png)
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)? 
 - ![image](https://user-images.githubusercontent.com/105893980/178125982-8771a648-723e-4284-9992-4217f5f947aa.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+4. VIDEO
+-
+- 
+- 
+- 
+5. CONCLUSIONES 
+-
+- 
+6. BIBLIOGRAFIA
+- Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
