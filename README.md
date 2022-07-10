@@ -89,7 +89,8 @@ múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el 
 - 
 - 
 5. CONCLUSIONES 
--
-- 
+- Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora.
+- En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de  lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de lazo es posible encontrar todas las corrientes de rama.
+-Para que el sistema de ecuaciones sea consistente debe haber una ecuación por cada nodo. Así el número de incógnitas (voltajes de nodo) es igual al número de ecuaciones (una por nodo). 
 6. BIBLIOGRAFIA
 - Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
