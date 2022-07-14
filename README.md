@@ -1,5 +1,5 @@
 1. OBJETIVO GENERAL
-En el siguiente document se aplicaran métodos basados en la ley de Ohm y las leyes de Kirchhoff, son particularmente útiles en el análisis de circuitos de
+- En el siguiente document se aplicaran métodos basados en la ley de Ohm y las leyes de Kirchhoff, son particularmente útiles en el análisis de circuitos de
 múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito.
 - OBJETIVOS ESPECIFICOS
 - Explicar los principios de un campo magnético
@@ -84,10 +84,10 @@ múltiples lazos que tienen dos o más fuentes de voltaje o de corriente. En el 
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)? 
 - ![image](https://user-images.githubusercontent.com/105893980/178125982-8771a648-723e-4284-9992-4217f5f947aa.png)
 4. VIDEO
--
-- 
-- 
-- 
+- https://youtu.be/X8WRlOPGgaA
+- https://youtu.be/gxhvRCH57cU
+- https://youtu.be/eAe6B4xxOlQ
+- https://youtu.be/NsGOiQXkHr4
 5. CONCLUSIONES 
 - Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora.
 - En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de  lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de lazo es posible encontrar todas las corrientes de rama.
